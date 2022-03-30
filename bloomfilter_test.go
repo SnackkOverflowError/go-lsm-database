@@ -13,7 +13,7 @@ func TestHelloWorld(t *testing.T) {
 
 	})
 	t.Run("insert", func(t *testing.T) {
-		 bf.CheckValue([]byte("test")
+		bf.CheckValue([]byte("test"))
 	})
 
 	t.Run("check when has key", func(t *testing.T) {
