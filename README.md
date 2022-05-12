@@ -1,6 +1,6 @@
 ## TODO
-- bloom filter
-- tree (either b+, red black, fractal)
+- bloom filter testing
+- rb tree testing
 - compaction
 - sstables
 - index
